@@ -1,19 +1,19 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Bienvenidos",
+    "paragraph": "CasaClean nos encargamos de remodelar tus muebles para que puedan tener una segunda vida."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Nos dedicamos a transformar espacios a través de servicios de limpieza profesional, desinfección y mantenimiento. Nuestro objetivo es brindar ambientes limpios, seguros y organizados para que nuestros clientes disfruten de la tranquilidad y el confort que se merecen. Contamos con un equipo altamente capacitado y comprometido con la excelencia. Utilizamos productos y técnicas de limpieza de última generación, que no solo eliminan la suciedad, sino que también protegen la salud de quienes habitan y trabajan en los espacios que cuidamos. Ya sea para oficinas, hogares o establecimientos comerciales, adaptamos nuestros servicios a las necesidades específicas de cada cliente, asegurando siempre resultados impecables y un servicio confiable. En [Nombre de la Empresa], creemos que un espacio limpio no es solo un reflejo de orden, sino también una contribución al bienestar y a la productividad de quienes lo utilizan.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Profesionalismo garantizado",
+      "Compromiso con la seguridad",
+      "Adaptados a tus necesidades",
+      "Puntualidad y responsabilidad"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor"
+      "Productos ecológicos",
+      "Satisfacción asegurada"
     ]
   },
   "Gallery": [
@@ -83,61 +83,61 @@
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"¡Excelente servicio! Mi oficina nunca había estado tan limpia. Se nota el cuidado y profesionalismo en cada rincón.\"",
+      "name": "Miguel M."
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\" Confío en ellos para la limpieza de mi negocio y siempre cumplen. Los recomiendo al 100%. \"",
+      "name": "Carlos G."
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\" Su atención al detalle es impresionante. Además, usan productos que cuidan el medio ambiente, lo cual valoro mucho. \"",
+      "name": "Sergio A."
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\" Mi hogar quedó impecable y desinfectado. La tranquilidad de saber que estamos en un ambiente seguro no tiene precio. \"",
+      "name": "Marta R."
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\" Súper puntuales y responsables. Llevo meses con ellos y nunca me han fallado. ¡Muy recomendables! \"",
+      "name": "Luis P."
     },
     {
       "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\" ¡Una experiencia increíble! No solo limpian, sino que dejan todo organizado y perfumado. Gracias por su excelente trabajo. \"",
+      "name": "Verónoca H."
     }
   ],
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
+      "name": "Luis Reina",
       "job": "Director"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
+      "name": "Alejandro De Reina",
       "job": "Senior Designer"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
+      "name": "Grecia A.",
       "job": "Senior Designer"
     },
     {
       "img": "img/team/04.jpg",
-      "name": "Karen Doe",
+      "name": "Karen M.",
       "job": "Project Manager"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "1020 Concón, Valparaíso ",
+    "phone": "+56 9 6779 6186",
+    "email": "contacto@casaclean.cl",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
@@ -145,23 +145,23 @@
   "Features": [
     {
       "icon": "fa fa-cloud-download",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Limpia",
+      "text": "Deja cada espacio impecable con técnicas y productos de alta calidad.  "
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Desinfecta",
+      "text": "Elimina gérmenes y bacterias para un ambiente seguro y saludable."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Disfruta",
+      "text": "Relájate en un espacio fresco y revitalizado, sin preocupaciones."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Repite",
+      "text": "Mantén la limpieza con servicios periódicos y consistentes."
     }
   ]
 }

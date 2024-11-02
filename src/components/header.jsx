@@ -14,10 +14,12 @@ export const Header = (props) => {
                 </h1>
                 <p>{props.data ? props.data.paragraph : "Loading"}</p>
                 <a
-                  href="#features"
+                  target="_blank"
+                  rel="noreferrer"
+                  href="https://wa.me/56967796186"
                   className="btn btn-custom btn-lg page-scroll"
                 >
-                  Learn More
+                  Contactar
                 </a>{" "}
               </div>
             </div>
